@@ -1,2 +1,9 @@
+[Adblock Plus 3.5.1]
+! Title: douyu p2p block
+! Last modified: Wed Apr 17 22:11:15 JST 2019
+! Expires: 1 days (update frequency)
+! Homepage: https://github.com/jmz331/douyu-p2p-block
+
+
 ! douyu.com
 *.ourdvsss.com*/live?msg=getpeer
