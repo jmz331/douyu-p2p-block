@@ -8,4 +8,5 @@
 ! douyu.com
 *.ourdvsss.com*/live?msg=getpeer
 *api.galaxyclouds.cn/p2p*
+*congyicn.com/FlashP2PMonitorNew/
 *congyicn.com/dist/yhp2p.min.js
