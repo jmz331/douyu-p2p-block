@@ -1,6 +1,6 @@
 [Adblock Plus 3.5.1]
 ! Title: douyu p2p block
-! Last modified: 2019年 4月21日 星期日 17时28分04秒 JST
+! Last modified: Sun Apr 21 17:52:53 JST 2019
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/jmz331/douyu-p2p-block
 
@@ -8,3 +8,4 @@
 ! douyu.com
 *.ourdvsss.com*/live?msg=getpeer
 *api.galaxyclouds.cn/p2p*
+*congyicn.com/dist/yhp2p.min.js
