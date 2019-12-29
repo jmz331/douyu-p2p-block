@@ -7,3 +7,6 @@
 
 ! douyu.com
 *.ourdvsss.com*/live?msg=getpeer
+sdkapi.douyucdn.cn/p2p*
+p2p*.douyucdn*
+ourdvsss.com*/p2*
