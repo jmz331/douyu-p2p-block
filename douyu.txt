@@ -13,4 +13,4 @@
 proxy-tel-s.alicdn.com/f/pcdn*
 sdkapi.douyucdn.cn/p2p*
 p2p*.douyucdn*
-ourdvsss.com*/p2*
+*ourdvsss.com*/p2p*
