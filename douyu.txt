@@ -12,3 +12,8 @@
 *congyicn.com/dist/yhp2p.min.js
 proxy-tel-s.alicdn.com/f/pcdn*
 sdkapi.douyucdn.cn/p2p*
+
+! huya.com
+*.va.huya.com
+*.p2p.huya.com
+statwup.huya.com
